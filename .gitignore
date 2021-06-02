@@ -1,0 +1,17 @@
+.DS_Store
+*generated
+.idea
+*.swp
+*.iml
+*.ipr
+*.iws
+*~
+*.log
+.metadata
+bin
+target
+.settings
+RemoteSystemsTempFiles
+.project
+.classpath
+.teeproject
